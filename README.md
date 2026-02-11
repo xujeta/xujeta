@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xujeta
-- idk how did i got here cuz i'm blonde
-- probly there will be some of my side projects
+- idk how did i got here
+- there will be some of my projects ig
 
 <!---
 xujeta/xujeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
